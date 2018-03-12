@@ -44,6 +44,8 @@ The finished product should look like this: ![](https://github.com/annahothai/LE
  
  
  5. The LED should blink twice a second for 5 seconds
+ Here's a [video](https://youtu.be/6YKY_uGy504) of it blinking! (Yes, I realize I filmed vertically, who cares. The video quality isn't super good.) 
+ 
 
 
     
